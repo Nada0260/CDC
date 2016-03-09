@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
+import "github.com/Nada0260/coder"
 
 func main() {
-	fmt.Printf("Hello World")
+	coder.Sum(3, 4)
+
 }
